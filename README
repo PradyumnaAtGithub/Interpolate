@@ -1,0 +1,31 @@
+Name: Pradyumna Kaushik
+------------------------------
+
+Notes
+--------------------------------
+I have included the test.cpp file (with the test cases that run).
+
+Instructions to compile and run the programs
+--------------------------------------------
+
+	2. Run the Interpolate.hpp - Type the following command,
+		g++ test.cpp -o test.o -std=c++14 -ldl -lpthread
+
+Reference Links
+---------------
+	1. http://en.cppreference.com/w/cpp/io/manip/setbase
+	2. http://stackoverflow.com/questions/12142893/virtual-friend-functions-for-a-base-class
+	3. http://stackoverflow.com/questions/25427938/c11-stdforward-as-tuple-and-stdforward
+	4. http://www.cplusplus.com/reference/tuple/forward_as_tuple/
+	5. http://cpptruths.blogspot.com/2012/06/perfect-forwarding-of-parameter-groups.html
+	6. http://en.cppreference.com/w/cpp/language/parameter_pack
+	7. https://msdn.microsoft.com/en-us/library/dn439779.aspx
+	8. http://www.cplusplus.com/forum/general/153409/
+	9. http://stackoverflow.com/questions/15581999/variadic-template-function-specialize-head-tail-and-empty-base-case
+	10. http://en.cppreference.com/w/cpp/utility/move
+	11. http://stackoverflow.com/questions/29183791/deduce-the-type-of-tuple-elements-in-c11
+	12. http://stackoverflow.com/questions/2821223/how-would-one-call-stdforward-on-all-arguments-in-a-variadic-function
+	13. http://stackoverflow.com/questions/34542799/why-does-the-standard-allow-a-tuple-of-rvalue-references-to-be-assigned-to-by-a
+	14. http://stackoverflow.com/questions/26749505/error-use-of-deleted-function-why
+	15. http://www.cplusplus.com/reference/tuple/tuple_cat/
+	16. http://stackoverflow.com/questions/20616958/stdforward-without-perfect-forwarding
