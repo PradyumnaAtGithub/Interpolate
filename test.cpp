@@ -1,3 +1,8 @@
+/*
+* Author: Professor Kenneth Chiu
+* Binghamton University
+*/
+
 #include "Interpolate.hpp"
 #include <iostream>
 #include <typeinfo>
